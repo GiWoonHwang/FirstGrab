@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FirstGrab.iml" filepath="$PROJECT_DIR$/.idea/FirstGrab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coupon-version-management.iml" filepath="$PROJECT_DIR$/.idea/modules/coupon-version-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coupon-api/coupon-version-management.coupon-api.iml" filepath="$PROJECT_DIR$/.idea/modules/coupon-api/coupon-version-management.coupon-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coupon-api/coupon-version-management.coupon-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/coupon-api/coupon-version-management.coupon-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coupon-api/coupon-version-management.coupon-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/coupon-api/coupon-version-management.coupon-api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coupon-consumer/coupon-version-management.coupon-consumer.iml" filepath="$PROJECT_DIR$/.idea/modules/coupon-consumer/coupon-version-management.coupon-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coupon-consumer/coupon-version-management.coupon-consumer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/coupon-consumer/coupon-version-management.coupon-consumer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coupon-consumer/coupon-version-management.coupon-consumer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/coupon-consumer/coupon-version-management.coupon-consumer.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coupon-core/coupon-version-management.coupon-core.iml" filepath="$PROJECT_DIR$/.idea/modules/coupon-core/coupon-version-management.coupon-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coupon-core/coupon-version-management.coupon-core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/coupon-core/coupon-version-management.coupon-core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coupon-core/coupon-version-management.coupon-core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/coupon-core/coupon-version-management.coupon-core.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coupon-version-management.main.iml" filepath="$PROJECT_DIR$/.idea/modules/coupon-version-management.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coupon-version-management.test.iml" filepath="$PROJECT_DIR$/.idea/modules/coupon-version-management.test.iml" />
+    </modules>
+  </component>
+</project>
